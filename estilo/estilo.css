@@ -1,0 +1,144 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf);
+}
+
+:root{
+    --cor0:
+}
+
+body{
+    background-color: #79dfa7;
+    font-weight: 400;
+}
+
+header{
+    background-image: linear-gradient(to top, #1A5C38, #299457, #38CA79);
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    
+}
+
+.desfocado{
+    color: transparent;
+    margin: 30px 20px;
+    text-align: center;
+}
+
+nav{
+    padding: 3px;
+    text-align: left;
+    
+}
+
+nav > a{
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+a:hover{
+    background-color: rgba(255, 255, 255, 0.315);
+    
+}
+
+h1#android1{
+    font-family: 'idroid', Helvetica, serif;
+    font-size: 2em;
+    color: #1A5C38;
+    margin: auto;
+    padding: 10px;
+    text-indent: 15px;
+}
+
+h2.android2{
+    font-family: 'idroid', Helvetica, serif;
+    color: #1A5C38;
+    padding: 10px;
+    text-indent: 15px;
+    background-color: #8ef7bd54;
+    width: 500px;
+    margin: 1px 10px 1px 8px;
+    
+}
+
+main{
+    width: 810px;
+    background-color: white;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+    font-size: 1em;
+    text-indent: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p > a{
+    color: #299457;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.linkn:hover{
+    text-decoration: underline;
+    background-color: white;
+    font
+}
+
+.ajusteimg{
+    margin: 10px 10px 5px 5px;
+}
+
+.ajusteimg2{
+    margin: 10px 10px 5px 200px; 
+
+}
+
+.fundovideo{
+    background-color: #1A5C38;
+    height: 440px;
+}
+
+iframe{
+    margin: 15px 10px 15px 55px;
+    width: 700px;
+    height: 409px;   
+}
+
+aside{
+    background-color: #b8f5d3d2;
+    width: 747px;
+    margin: 22px 10px 15px 10px;
+    padding: 20px;
+    border-radius: 15px 15px;
+
+    
+}
+
+h3{
+    background-color: #299457;
+    color: white;
+    font-weight: bolder;
+    width: 747px;
+    height: 20px;
+    margin: -20px 47px 15px -20px;
+    padding: 20px;
+    border-radius: 15px 15px 0px 0px;
+}
+
+footer{
+    background-color: #1A5C38;
+    text-align: center;
+    color: white;
+    width: 800px;
+    height: 20px;
+    padding: 10px;
+}
