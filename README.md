@@ -32,6 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Android é um site onde mostra a evolução do Android ao longo dos anos.
 
+## Site 
+
+<a href="https://projeto-android-jet.vercel.app/" target="_blank">Projeto Android</a>
 
 ## :memo: Licença
 
